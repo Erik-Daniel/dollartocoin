@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="67"
+   height="67"
+   viewBox="0 0 67 66.999997"
+   id="svg4999"
+   version="1.1">
+  <title
+     id="title3384">Dime</title>
+  <defs
+     id="defs5001">
+    <linearGradient
+       id="linearGradient4183">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4185" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="1"
+         id="stop4187" />
+    </linearGradient>
+    <radialGradient
+       r="75.7145"
+       fy="387.62302"
+       fx="-257.68942"
+       cy="387.62302"
+       cx="-257.68942"
+       gradientTransform="matrix(0.40867216,0.07784209,-0.07719556,0.40527782,172.09435,9.7454872)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4157"
+       xlink:href="#linearGradient4183" />
+  </defs>
+  <metadata
+     id="metadata5004">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Dime</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:date>2016-03-24</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mazeo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>openclipart.org</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>money</rdf:li>
+            <rdf:li>currency</rdf:li>
+            <rdf:li>change</rdf:li>
+            <rdf:li>coin</rdf:li>
+            <rdf:li>coins</rdf:li>
+            <rdf:li>cash</rdf:li>
+            <rdf:li>coinage</rdf:li>
+            <rdf:li>denomination</rdf:li>
+            <rdf:li>dime</rdf:li>
+            <rdf:li>dimes</rdf:li>
+            <rdf:li>ten cents</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A dime.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>mazeo</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="dime"
+     transform="translate(0.97244185,-119.97244)">
+    <circle
+       r="31.237097"
+       cy="152.67519"
+       cx="33.324802"
+       id="circle4149"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4157);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9864347;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.52854586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle4151"
+       cx="31.730314"
+       cy="154.26968"
+       r="28.966042" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4155"
+       d="m 45.916334,159.50608 c -1.702162,-0.18175 -2.985622,-1.64132 -3.404808,-3.23208 c -0.549956,-1.99284 -0.202309,-4.36028 1.378478,-5.80626 c 0.553976,-0.52138 1.196667,-0.97526 1.934464,-1.18948 c 0,0 -0.815604,-2.6447 0,-3.46031 c 0.808382,-0.80838 2.621301,-0.80838 3.429684,0 c 0.815603,0.81561 0,3.46031 0,3.46031 c 1.003697,0.46225 2.674291,0.7054 2.786623,1.80671 c 0.106194,1.04119 -1.20737,2.00867 -2.235422,2.2048 c -0.638245,0.12176 -1.095965,-0.79255 -1.794268,-0.76173 c -1.277325,-0.15723 -2.326714,1.21038 -2.060306,2.41569 c 0.131582,1.11585 1.301577,2.04362 2.422983,1.72214 c 0.736182,0.0152 1.086235,-1.11746 1.758625,-1.02569 c 0.991036,0.13526 2.195646,1.1562 2.092117,2.15105 c -0.108052,1.03834 -1.560751,1.48103 -2.599058,1.74738 c -0.448685,-0.007 -0.227672,0.47434 -0.279425,0.75689 c 0,0 0.571791,1.85412 0,2.42591 c -0.808382,0.80838 -2.621304,0.80838 -3.429687,0 c -0.757861,-0.75786 0,-3.21533 0,-3.21533 z" />
+    <path
+       d="m 12.869169,147.62964 l 2.038794,-1.01939 l 3.058198,-3.0582 l 0,21.40737 m 10.781597,-20.94671 c -0.976451,0.3967 -1.681506,1.32811 -2.265995,2.20515 c -0.778072,1.16751 -1.285563,2.53577 -1.54825,3.91398 c -0.431171,2.26219 -0.35773,4.63377 0,6.90872 c 0.261213,1.66116 0.72415,3.33546 1.54825,4.80125 c 0.5663,1.00725 1.215267,2.1426 2.265995,2.62345 c 1.653837,0.75687 3.818045,0.78985 5.456387,0 c 1.006853,-0.4854 1.573352,-1.63148 2.088479,-2.62345 c 0.768702,-1.48028 1.172337,-3.15025 1.409704,-4.80125 c 0.327721,-2.27947 0.396086,-4.64013 0,-6.90872 c -0.238506,-1.36604 -0.682565,-2.73321 -1.409704,-3.91398 c -0.530866,-0.86204 -1.158498,-1.80506 -2.088479,-2.20515 c -1.670738,-0.71879 -3.771342,-0.68458 -5.456387,0 z"
+       style="fill:none;stroke:#000000;stroke-width:3.87814975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4491" />
+  </g>
+</svg>
