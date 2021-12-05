@@ -6,81 +6,127 @@ import cent from './assets/1.svg'
 
 export default function calculate({dollar}) {
     dollar = dollar.toString();
-    let leftAmount = dollar.substr(0,dollar.indexOf("."))
-    console.log("dollar is " +  dollar)
+    let firstNumber = 0;
+    let secondNumber = 0;    
+    if(dollar.indexOf(".") === -1){
+         firstNumber = dollar;
+    }
+    else {
+        firstNumber = dollar.substr(0,dollar.indexOf("."))
+    
+        
+        if(dollar.substr(dollar.indexOf(".") + 1,dollar.indexOf(".") + 2) === 0 ){
+            secondNumber = dollar.substr(dollar.indexOf(".") + 1,dollar.length)
+
+        
+        }   
+        else{
+            secondNumber = dollar.substr(dollar.indexOf(".") + 1);
+            if(secondNumber.toString().length > 1){
+                secondNumber = dollar.substr(dollar.indexOf(".") + 1);
+
+            }
+            else {
+                secondNumber = dollar.substr(dollar.indexOf(".") + 1) + "0";
+                
+            }
+          
+
+        }
+            
+    }
     let quarterValue = 0;
     let dimeValue = 0;
     let nickelValue = 0;
     let centValue = 0;
 
-    function getCents() {
-        console.log("cent" + leftAmount)
-        if(leftAmount >= 0.01){
-            let value = Math.floor(leftAmount / 0.01);
-            console.log("value" + value)
-            let dollarValue = 0.01 * value;
+    let quarterDollar = 0;
+    let dimeDollar = 0;
+    let nickelDollar = 0;
+    let centDollar= 0;
 
-            leftAmount = leftAmount - dollarValue;
-            centValue = value;
+    function getCents() {
+        let value = 0;
+         if(secondNumber >= 1){
+            let secondValue = Math.floor(secondNumber / 1);
+            let dollarAmount = secondValue * 10;
+            value += secondValue;
+            secondNumber = secondNumber - dollarAmount;
         }
-    }
+        centDollar = value * 0.01;
+        centValue = value;
+       }
+    
 
     function getNickel() {
-        console.log("nickel" + leftAmount)
-
-        if(leftAmount >= 0.05){
-            let value = Math.floor(leftAmount / 0.05);
-            let dollarValue = 0.05 * value;
-
-            leftAmount = leftAmount - dollarValue;
-            nickelValue = value;
+        let value = 0;
+         if(secondNumber >= 5){
+            let secondValue = Math.floor(secondNumber / 5);
+            let dollarAmount = secondValue * 5;
+            value += secondValue;
+            secondNumber = secondNumber - dollarAmount;
         }
+        nickelDollar = value * 0.05;
+        nickelValue = value;
     }
+    
 
     function getDime() {
-        console.log("dime" + leftAmount)
-
-        if(leftAmount >= 0.10){
-            let value = Math.floor(leftAmount / 0.10);
-            let dollarValue = 0.10 * value;
-
-            leftAmount = leftAmount - dollarValue;
-            dimeValue = value;
-        } 
-        
+        let value = 0;
+         if(secondNumber >= 10){
+            let secondValue = Math.floor(secondNumber / 10);
+            let dollarAmount = secondValue * 10;
+            value += secondValue;
+            secondNumber = secondNumber - dollarAmount;
+        }
+        dimeDollar = value * 0.10;
+        dimeValue = value;  
     }   
 
     function getQuarter() {
-        console.log("quarter" + leftAmount)
-
-        if(leftAmount >= 0.25){
-            let value = Math.floor(leftAmount / 0.25);
-            let dollarValue = 0.25 * value;
-
-            leftAmount = leftAmount - dollarValue;
-            quarterValue = value;
+        let value = 0;
+        if(firstNumber > 0){
+             value += (firstNumber / 0.25);
             
         }
+         if(secondNumber >= 25){
+            let secondValue = Math.floor(secondNumber / 25);
+            let dollarAmount = secondValue * 25;
+            value += secondValue;
+            secondNumber = secondNumber - dollarAmount;
+        }
+        quarterDollar = value * 0.25;
+        quarterValue = value;
     }
     return (
         <div className='coins'>
-        {getQuarter(), getDime(),getNickel(),getCents()}
+        {getQuarter()}
+        { getDime()}
+        {getNickel()}
+        {getCents()}
             <div className="subContainer">
                 <img className='image' src={quarter} alt="25 cent"></img>
                 <label>{quarterValue}</label>
+                <label className='dollar'>{"$" + quarterDollar}</label>
             </div>
             <div className="subContainer">
-                <img className='image' src={dime} alt="25 cent"></img>
+                <img className='image' src={dime} alt="10 cent"></img>
                 <label>{dimeValue}</label>
+                <label className='dollar'>{"$" + dimeDollar}</label>
+
             </div>
             <div className="subContainer">
-                <img className='image' src={nickel} alt="25 cent"></img>
+                <img className='image' src={nickel} alt="5 cent"></img>
                 <label>{nickelValue}</label>
+                <label className='dollar'>{"$" + nickelDollar}</label>
+
             </div>
             
             <div className="subContainer">
-                <img className='image' src={cent} alt="25 cent"></img>
+                <img className='image' src={cent} alt="1 cent"></img>
                 <label>{centValue}</label>
+                <label className='dollar'>{"$" + centDollar}</label>
+
             </div>
            
 

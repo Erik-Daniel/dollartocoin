@@ -8,9 +8,11 @@ function App() {
   function handleInput(e) {
     let inputValue = document.getElementById("dollar").value;
     setAmount(inputValue)
+ 
   }
   return (
-    <div style={{display: "flex", alignItems: "center", flexDirection: "column"}}>
+    <div className="container">
+        <label>Enter dollar($) amount to convert to coin</label>
         <input id='dollar' onChange={handleInput} type='number'></input>  
 
         <Calculate dollar={amount}/>
