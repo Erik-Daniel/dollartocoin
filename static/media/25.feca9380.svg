@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg4999"
+   viewBox="0 0 90 89.999997"
+   height="90"
+   width="90">
+  <title
+     id="title3444">Quarter</title>
+  <defs
+     id="defs5001">
+    <linearGradient
+       id="linearGradient4183">
+      <stop
+         id="stop4185"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop4187"
+         offset="1"
+         style="stop-color:#cccccc;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       r="75.7145"
+       fy="387.62302"
+       fx="-257.68942"
+       cy="387.62302"
+       cx="-257.68942"
+       gradientTransform="matrix(0.55438782,0.10559738,-0.10472031,0.54978323,233.29512,9.0613669)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4307"
+       xlink:href="#linearGradient4183" />
+  </defs>
+  <metadata
+     id="metadata5004">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Quarter</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:date>2016-03-24</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mazeo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>openclipart.org</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>money</rdf:li>
+            <rdf:li>currency</rdf:li>
+            <rdf:li>change</rdf:li>
+            <rdf:li>coin</rdf:li>
+            <rdf:li>coins</rdf:li>
+            <rdf:li>cash</rdf:li>
+            <rdf:li>coinage</rdf:li>
+            <rdf:li>denomination</rdf:li>
+            <rdf:li>quarter</rdf:li>
+            <rdf:li>quarters</rdf:li>
+            <rdf:li>twenty-five cents</rdf:li>
+            <rdf:li>25 cents</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A quarter dollar.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>mazeo</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0.9868117,-158.9868)"
+     id="quarter">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4307);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21071315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle4299"
+       cx="45.046062"
+       cy="202.95393"
+       r="42.374958" />
+    <circle
+       r="39.23597"
+       cy="205.01967"
+       cx="42.980316"
+       id="circle4301"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.48869419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       d="m 63.344595,211.46339 c -2.094613,-0.22366 -3.673997,-2.01975 -4.189825,-3.97728 c -0.676757,-2.45231 -0.24896,-5.36559 1.696304,-7.14495 c 0.681697,-0.6416 1.472567,-1.20012 2.380472,-1.46373 c 0,0 -1.003651,-3.25447 0,-4.25812 c 0.994765,-0.99477 3.225676,-0.99477 4.220441,0 c 1.003647,1.00365 0,4.25812 0,4.25812 c 1.235111,0.56882 3.290877,0.86804 3.429109,2.22327 c 0.130678,1.28125 -1.485744,2.47179 -2.750826,2.71314 c -0.785397,0.14983 -1.348654,-0.97529 -2.20796,-0.93735 c -1.571818,-0.19349 -2.863158,1.48945 -2.535322,2.97265 c 0.16191,1.37312 1.601665,2.5148 2.981626,2.11919 c 0.905918,0.0187 1.336677,-1.37509 2.164091,-1.26217 c 1.219531,0.16645 2.701882,1.42278 2.574482,2.64701 c -0.132967,1.27774 -1.920604,1.82249 -3.198302,2.15025 c -0.552132,-0.008 -0.280163,0.5837 -0.343849,0.93139 c 0,0 0.703623,2.28161 0,2.98524 c -0.994769,0.99476 -3.225673,0.99476 -4.220441,0 c -0.932594,-0.9326 0,-3.95666 0,-3.95666 z"
+       id="path4303"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 23.872405,191.45041 c -2.215177,0.42941 -4.654843,1.11839 -6.165501,2.7945 c -1.195175,1.32607 -1.865123,3.24764 -1.69389,5.08064 c 0.436591,1.74715 2.688526,1.71043 3.86277,0.77797 c 1.374779,-0.74294 0.799677,-2.71842 1.894533,-3.43146 c 1.270705,-0.82757 3.24035,-1.19581 4.531611,-0.4007 c 1.251916,0.77089 2.663518,2.65416 1.630859,4.09809 c -1.347855,2.56071 -3.103017,4.87864 -5.105749,6.96133 c -2.531473,2.72927 -4.974431,5.54086 -7.471408,8.29912 c -1.267009,1.14805 0.03367,3.4209 1.647583,3.05004 c 5.215968,0.005 10.431959,-0.01 15.647917,0.008 c 1.380477,-0.14257 1.796792,-1.69649 1.591374,-2.85857 c 0.0454,-1.25163 -1.37201,-1.59162 -2.31835,-1.93405 c -2.816454,-1.01912 -5.99031,0.003 -8.985489,0.008 c 2.058434,-2.37094 4.283897,-4.59515 6.25928,-7.03693 c 1.437376,-1.87958 2.830676,-3.85183 3.710759,-6.0596 c 1.181374,-4.06009 -1.920153,-8.60858 -6.051116,-9.22873 c -0.963321,-0.32339 -2.007421,-0.31678 -2.985183,-0.12724 z m 15.790934,1.24343 c -1.184878,0.83226 -0.758742,2.46774 -1.052022,3.70105 c -0.265196,2.56832 -0.609962,5.14049 -0.828678,7.70574 c 0.202655,1.71149 2.333125,1.8547 3.610185,1.34444 c 1.711662,-1.10924 3.700461,-1.29407 5.675342,-0.85192 c 2.056497,0.12163 3.669003,1.93382 3.654863,3.96833 c 0.327707,2.17182 -0.635464,4.83157 -3.028618,5.25162 c -1.955325,0.33917 -4.262333,0.55285 -5.852615,-0.8615 c -0.647083,-0.80425 -0.881093,-2.30419 -2.279558,-2.31275 c -2.4053,-0.59801 -3.579378,2.8497 -2.060823,4.40883 c 2.759168,3.81745 8.313739,4.48489 12.459322,2.80397 c 5.117541,-1.91646 6.978019,-8.75438 4.310266,-13.33454 c -2.098402,-4.04072 -7.262841,-5.4514 -11.46181,-4.35414 l 0.445208,-3.11871 c 2.853707,-0.0237 5.720873,0.0466 8.565915,-0.0337 c 2.187458,-0.65262 1.72662,-4.11191 -0.190574,-4.86931 c -1.500486,-0.69091 -3.202786,-0.88343 -5.229261,-0.80623 c -2.026475,0.0772 -4.466965,0.5639 -6.737142,1.35882 z"
+       style="color:#000000;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.85299683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4353" />
+  </g>
+</svg>
